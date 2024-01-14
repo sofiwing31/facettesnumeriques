@@ -9,4 +9,4 @@ Le but du projet « Facettes Numériques » est d’informer sur les enjeux de s
 
 1- faire découvrir les **alternatives** permises par les systèmes d’exploitation basés sur LINUX et plus largement les logiciels libres
 
-2- faciliter l’**entretien et la réparation des équipements** numériques. 
+2- faciliter l’**entretien et la réparation des équipements** numériques 
