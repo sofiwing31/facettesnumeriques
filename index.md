@@ -1,8 +1,12 @@
 ---
-title: Accueil
+title: "Bienvenue !"
 order: 0
+in_menu: true
 ---
+# Facettes Numériques
 
-# L'Échappée Belle
+Le but du projet « Facettes Numériques » est d’informer sur les enjeux de sobriété numérique et de proposer des actions concrètes avec un double parti-pris :
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+1- faire découvrir les **alternatives** permises par les systèmes d’exploitation basés sur LINUX et plus largement les logiciels libres
+
+2- faciliter l’**entretien et la réparation des équipements** numériques. 
