@@ -3,7 +3,10 @@ title: "Contact"
 order: 2
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
+Envie d'envoyer un mot, de poser une question ? Envoyer un mail à cette adresse : 
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+[sofiwing@protonmail.com](mailto:sofiwing@protonmail.com)
+
+Votre adresse mail ne sera pas collectée ni utilisée à d’autres fins que celle de répondre à votre message.
+
+` 
